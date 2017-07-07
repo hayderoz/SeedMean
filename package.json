@@ -1,0 +1,29 @@
+{
+  "name": "seedmean",
+  "version": "1.0.0",
+  "description": "seed project mean stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahaoz/SeedMean.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "angular2",
+    "Application"
+  ],
+  "author": "AHAoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahaoz/SeedMean/issues"
+  },
+  "homepage": "https://github.com/ahaoz/SeedMean#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1"
+  }
+}
